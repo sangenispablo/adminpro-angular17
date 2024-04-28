@@ -17,3 +17,5 @@ Para solucionar el problema de los iconos tanto de Material como de Awesome hice
 Para este proyecto uso `npm`
 
 Para este proyecto se usó un template que FH dice es de pago, advierte que no se puede usar, pero si necesitas descargarlo podes bajarlo para que lo tengas a mano y veas como pasar un template de este tipo a angular como te enseña FH aca tenes el [link](https://drive.google.com/file/d/1qRblS7uKPObn85YzgG3YS2oGf15pHIul/view?usp=drive_link):
+
+Agrego un tag pero no lo veo en el github ??? para eso modifico esta linea
